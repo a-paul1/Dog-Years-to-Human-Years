@@ -15,7 +15,7 @@ console.log(earlyYears); */
 
 let laterYears = myAge - 2;
 
-/* Tjos os a check step to make sure that the math equatoin worked 
+/* This is a check step to make sure that the math equatoin worked 
 console.log(laterYears); */
 
 // This equation accounts for the number of dog years
